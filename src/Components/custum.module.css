@@ -1,0 +1,53 @@
+ .Parent{
+   display: flex;
+   flex-direction:column;
+   text-align: center;
+   background-color: rgb(241, 150, 246);
+    color: white;
+    font-size: larger;
+    font-weight: 800;}
+
+ .HOCred{
+   text-align: center;
+   align-self: center;
+    background-color: red;
+    color: white;
+    font-size:medium;
+    font-weight: 800;
+    width: 50%;
+    margin-bottom: 2%;
+   
+ }
+ .HOCyellow{
+   text-align: center;
+   align-self: center;
+    background-color: rgb(255, 255, 0);
+    color: rgb(211, 66, 66);
+    font-size:medium;
+    font-weight: 800;
+    width: 50%;
+    margin-bottom:2%
+    }
+ .HOCgreen{
+   text-align: center;
+   align-self: center;
+    background-color: rgb(72, 255, 0);
+    color: rgb(211, 66, 66);
+    font-size:medium;
+    font-weight: 800;
+    width: 50%;
+    margin-bottom:2%
+    }
+.pagesize{
+  width:100vw;
+  height:100vh;
+  background-color: pink;
+}
+.Navigation{
+  text-decoration:none;
+  background-color: greenyellow;
+  color: antiquewhite;
+}
+li{
+  list-style:none;
+}
